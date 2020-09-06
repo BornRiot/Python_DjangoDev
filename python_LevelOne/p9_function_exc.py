@@ -1,4 +1,4 @@
-"""My Module """
+"""REDO THIS EXERCISE """
 
 
 # Question 1 
@@ -11,7 +11,7 @@ def array_challenge(nums):
 
 
 the_list1 = [1, 1, 2, 3, 1]
-print(array_challenge(the_list1))
+#print(array_challenge(the_list1))
 
 
 # Question 2
@@ -22,14 +22,14 @@ def string_bits(my_str):
         # only return 1 index
 
 
-string_bits("Heeololeo")
+#string_bits("Heeololeo")
 
 
 # Question 3
 def end_other(a):
     """This is a function"""
-    for elements in range(len(a), -1):
+    for elements in range(len(a)-1):
         return a[elements]
 
 
-end_other('Hiabc')
+print(end_other('Hiabc'))
