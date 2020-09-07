@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Hotel Feedback</title>
+  </head>
+  <body>
+    <h1>Hotel Feedback Form</h1>
+    <form  method="get">
+      <h2>Are you from in the USA?: </h2>
+      <label for="inusa">Resident</label>
+      <input id="inusa" type="radio" name="loc" value="Inside">
+      <label for= "outusa"> Foreigner </label>
+      <input id="outusa" type="radio" name="loc" value="Outside">
+      <!---To link buttons
+        together use the name= field --->
+
+      <h2>How was your service?:</h2>
+      <select name="Stars">
+        <option value="Excellent ">5 Stars</option>
+        <option value="Great ">4 Stars</option>
+        <option value="Good">3 Stars</option>
+        <option value="OK ">2 Stars</option>
+        <option value="Needs Imporvement ">1 Star</option>
+      </select>
+      <br>
+      <br>
+      <h2>Any other Feedback</h2>
+      <textarea name="Freeform" rows="8" cols="80"></textarea>
+      <br>
+      <input type="submit" name="Submit Button" value="Submit">
+    </form>
+
+  </body>
+</html>
