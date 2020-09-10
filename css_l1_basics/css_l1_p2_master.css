@@ -1,0 +1,16 @@
+body{
+  background: url(https://bit.ly/33bAhex)
+  /* you can use just background when dealing with basic color */
+  /* background: grey; */
+  /* you can link images to use for backgrounds: url(https://www.google.com/imgres?imgurl=https%3A%2F%2Fvisittybee.com%2Fsites%2Fdefault%2Ffiles%2Fstyles%2Fhero%2Fpublic%2Ftybee-beach.jpg%3Fitok%3DW6pXoY8N&imgrefurl=https%3A%2F%2Fvisittybee.com%2Fbeaches&tbnid=mOR9Wo1SvdXUOM&vet=12ahUKEwiRpefR7NzrAhWFGlMKHZ-kBS0QMygAegUIARDTAQ..i&docid=5HJw_JhZq-emMM&w=1200&h=600&q=beach&client=firefox-b-1-d&ved=2ahUKEwiRpefR7NzrAhWFGlMKHZ-kBS0QMygAegUIARDTAQ) */
+}
+div{
+  color: blue;
+  border-color: orange;
+  border-width: thick; /* you can specify border with using px: 10px*/
+  border-style: dotted;}
+p{
+  color: yellow}
+span{
+  background: red;
+  color: black;}
