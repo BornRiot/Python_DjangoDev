@@ -1,0 +1,24 @@
+/*This is how to comment in css files*/
+/* format for css files
+selected tag{
+property: value;
+}
+ */
+
+ h1{
+   color: blue;
+ }
+/* Use rgb pciker search in google to get color wheel  */
+
+li{
+  color: rgba(255,97,0);
+}
+
+p{
+  color: #bfbc19 /* using hex codes for color picker */
+
+}
+
+h4{ /*using rgba */
+  color: rgba(255, 83, 9, 0.5);
+}

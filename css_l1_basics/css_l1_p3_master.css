@@ -1,0 +1,48 @@
+/* Class in css starts with a . */
+/* Example
+.firstDiv{
+color: blue;
+}
+ */
+.firstDiv{
+  color: blue;
+}
+
+.secondDiv{
+  color: yellow;
+}
+/* id's use a # in order to change a specific element with a unique id */
+#singledout{
+  color: green;
+  text-decoration: underline;
+}
+
+#only3{
+  color: red;
+}
+
+/* The asterisk*  can be used to affect most elemens in the page
+such as classes but not id's */
+*{
+  color: orange;
+}
+/*Uncommon to use*/
+
+/* you can use the json  siblings to affect elements the are next to
+each other   */
+
+h3 + ul{
+  border: 4px dotted purple
+}
+
+/*To grab all anchor tags inside of a list you can
+use the following:  */
+li a{
+  color: red;
+}
+
+/* grab a anchor tag with a specific href */
+li a[href= "www.npr.org"]{
+  color: blue;
+  border: 5px solid orange;
+}

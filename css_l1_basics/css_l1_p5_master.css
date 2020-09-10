@@ -1,0 +1,16 @@
+/* Lecture deals with the topic of specificity
+which deals with the hierachy built into css elements */
+
+/* hierachy order of elements  */
+
+#two{
+  border: 3px dotted black
+}
+
+.topitems{
+  color: blue;
+}
+
+li{
+  color: red;
+}
