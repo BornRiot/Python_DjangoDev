@@ -1,0 +1,54 @@
+
+
+.art{
+  margin: auto;
+
+}
+h1{
+  color: #941B0C;
+  font-family: 'Great Vibes', cursive;
+  text-align: center;
+}
+
+h2{
+  color: #941B0C;
+  font-family: 'Great Vibes', cursive;
+  text-align: center;
+}
+
+#one{
+  background-color: #220901;
+  height: 300px;
+  width: 150px;
+  margin: auto;
+}
+
+#two{
+  background-color: #621708;
+  height: 300px;
+  width: 150px;
+  margin: auto;
+}
+
+#three{
+  background-color: #941B0C;
+  height: 300px;
+  width: 150px;
+  margin: auto;
+}
+
+#four{
+  background-color: #BC3908;
+  height: 300px;
+  width: 150px;
+  margin: auto;
+}
+
+#five{
+  background-color: #F6AA1C;
+  border: 300px;
+  height: 300px;
+  width: 150px;
+  margin: auto;
+}
+/* <!-- 220901, 621708, 941B0C, BC3908,F6AA1C --> */

@@ -1,0 +1,30 @@
+h1{
+  font-family: cursive;
+}
+
+p{
+  /* Use of the dwonloaded font from google */
+  font-family: 'Barrio', cursive;
+  font-style: italic;
+  font-weight: bold;
+}
+
+body{
+  font-size: 20px;
+}
+
+/* The use of px is not common to size fonts in css sheets.
+EM values are more commonly used over px values. 1em = 16px */
+
+/* For other elements that will be assigned, you can set their font
+ size equal to a ratio of the desired element pixel value divided by
+  that parent element   */
+
+#two{
+  font-size: 2.0em;
+  /* used for elements of the same type  */
+}
+
+h1{
+  text-align: center;
+}
