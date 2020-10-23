@@ -1,0 +1,61 @@
+h1{
+text-align: center;
+color: white;
+}
+
+h2{
+  text-align: center;
+color: white;
+}
+body{
+  font-family: 'Montserrat';
+  text-align: center;
+  background-color: #011627;
+  padding-top: 10px;
+  padding-left: 100px;
+  padding-right: 100px;
+  margin: 0px;
+  border-style: solid;
+  margin-top:100px solid;
+  border-top-width:45px;
+  border-top-color: #011627;
+  border-right-width: 45px;
+  border-right-color: #74d6db;
+  border-left-color:#74d6db;
+  border-left-width: 45px;
+  border-bottom-color:#74d6db;
+  border-bottom-width: 45px;
+
+}
+p{ text-align: center;
+  margin: 0;
+  color: #FDFFFC;
+  padding-top: 1%;
+  padding-left: 5%;
+  padding-right: 5%;
+}
+input {
+  margin: 0;
+  height: 20px;
+}
+label {
+  color: white;
+  text-align: center;
+margin: 0}
+#button{
+  text-align: center;
+  padding-top: 1%;
+  padding-bottom:25px;
+background-color: orange;
+border-radius: 1200px;
+}
+
+#ipsum1{
+  text-align: left;
+font-size: 30px;
+}
+
+#ipsum2{
+  text-align: left;
+  font-size: 30px;
+}
